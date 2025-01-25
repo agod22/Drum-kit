@@ -51,7 +51,7 @@ function checkKey(key){
             var audio = new Audio("sounds/kick-bass.mp3");
             audio.play();
             break;
-        default: console.log("sahi baja bsdk");
+        default: console.log("please choose correct key");
     }
 }
 
